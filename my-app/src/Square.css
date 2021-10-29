@@ -1,0 +1,16 @@
+#square{
+    
+    
+    height: 100px;
+    width: 100px;
+}
+
+.white{
+
+    border: 1px solid gray;
+}
+
+.black{
+    background-color: black;
+    border: 1px solid gray;
+}

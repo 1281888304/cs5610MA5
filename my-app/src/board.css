@@ -1,0 +1,11 @@
+#board{
+    display: grid;
+    grid-template-columns: repeat(2,100px);
+    grid-template-rows: repeat(2,100px);
+}
+#component{
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+  justify-content: center;
+}
